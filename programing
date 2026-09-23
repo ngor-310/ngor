@@ -1,0 +1,10 @@
+# This program introduces me using variables and print statements.
+name = "ngor"
+age = 25
+favourite_language = "Python"
+goal = "build useful projects"
+
+print(f"My name is {name}.")
+print(f"I am {age} years old.")
+print(f"My favourite language is {favourite_language}.")
+print(f"My goal for this course is to {goal}.")
